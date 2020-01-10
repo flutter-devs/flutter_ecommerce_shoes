@@ -1,0 +1,62 @@
+name: shoes_ecommerce_app
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  simple_animations: ^1.3.3
+  cupertino_icons: ^0.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+   - assets/images/flat_nike shoes.jpg
+   - assets/images/more_shoes1.webp
+   - assets/images/more_shoes2.webp
+   - assets/images/more_shoes3.jpg
+   - assets/images/nike.jpeg
+   - assets/images/more_icon.svg
+   - assets/images/convert_png_more_img.png
+   - assets/images/Nike_Shoe_PNG.png
+   - assets/images/air_max_flat.jpg
+   - assets/images/shoes_Detail_view.png
+   - assets/images/mybag_img1.png
+   - assets/images/nike_stand_black.jpg
+   - assets/images/nike_stand_cyan.jpeg
+   - assets/images/nike_more_img.jpg
+   - assets/images/rebook_more.png
+   - assets/images/More_img1.jpg
+   - assets/images/more_im_nike.jpg
+   - assets/images/right-arrow.png
+   - assets/images/substraction_sign.png
+   - assets/images/plus_sign.png
