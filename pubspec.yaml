@@ -60,3 +60,5 @@ flutter:
    - assets/images/right-arrow.png
    - assets/images/substraction_sign.png
    - assets/images/plus_sign.png
+   - assets/images/logo.png
+   - assets/images/powered_by.png

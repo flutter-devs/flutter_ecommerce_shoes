@@ -5,6 +5,13 @@ import 'package:shoes_ecommerce_app/Model/shoes_categories.dart';
 import 'package:shoes_ecommerce_app/Model/shoes_item_list.dart';
 class Constants{
 
+  static final String SPLASH_SCREEN = 'SPLASH_SCREEN';
+
+  static final String ECOMMERCE_MAINUI = 'ECOMMERCE_MAINUI';
+  static final String SHOES_DETAIL = 'SHOES_DETAIL';
+
+  static final String BAG_CART = 'BAG_CART';
+
   static List<ShoesItemList>getShoesItemList(){
     return[
       new ShoesItemList(Colors.orange[300],'assets/images/mybag_img1.png', 'NIKE', 'EPIC_REACT', '\$130.00'),
