@@ -3,16 +3,16 @@
 A sample application to show eCommerce Flutter Clone.
 
 # Demo
-<img height="480px" width="244px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_google_drive/screens/demo.gif">
+<img height="480px" width="244px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_shoes_ecommerce/screens/demo.gif">
 
 
 
 # Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_google_drive/screens/android1.png">
+<img height="480px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_shoes_ecommerce/screens/android1.png">
 
 
 # iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_google_drive/screens/iphone1.png">
+<img height="480px" src="https://github.com/flutter-devs/flutter_ecommerce_shoes/blob/flutter_shoes_ecommerce/screens/iphone1.png">
 
 
 ## Getting Started
